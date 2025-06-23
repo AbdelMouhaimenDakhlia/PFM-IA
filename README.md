@@ -36,6 +36,7 @@ This project simplifies complex financial analytics by providing scalable, real-
 - 🔮 **Prediction API**: Real-time client-specific transaction forecasting using trained CatBoost and XGBoost models.
 
 - 🧠 **Model Training & Serialization**: Tools for developing, evaluating, and saving high-performance predictive models.
+- 🧮 **Classification Model**: Accurate categorization of financial transactions using machine learning models trained on labeled transaction data.
 
 - 🐳 **Docker Deployment**: Containerized environment setup for consistent, seamless deployment across systems.
 
