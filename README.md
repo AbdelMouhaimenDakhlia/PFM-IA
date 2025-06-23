@@ -60,7 +60,7 @@ Build PFM-IA from the source and install dependencies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AbdelMoulaSeenDakhil/PFM-IA
+   git clone https://github.com/AbdelMouhaimenDakhlia/PFM-IA
    ```
 
 2. **Navigate to the project directory**:
@@ -72,7 +72,7 @@ Build PFM-IA from the source and install dependencies:
 
    Using **docker**:
    ```bash
-   docker build -t AbdelMoulaSeenDakhil/PFM-IA .
+   docker build -t AbdelMouhaimenDakhlia/PFM-IA .
    ```
 
    Using **pip**:
